@@ -1,0 +1,11 @@
+body {
+    font-family: 'Courgette', cursive;
+    background-color: #fcf1f1;
+}
+#navigate {
+    font-family: 'Lobster', cursive;
+    color: #440a67;
+}
+.navbar-nav {
+    color: #93329e;
+}
